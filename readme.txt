@@ -1,5 +1,6 @@
 CS4551 Multimedia Software Systems
 @ Author: Elaine Kang
+@ Student: Huai-Ya Chen
 Computer Science Department
 California State University, Los Angeles
 
