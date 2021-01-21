@@ -1,6 +1,6 @@
 CS4551 Multimedia Software Systems
 @ Author: Elaine Kang
-@ Student: Huai-Ya Chen
+@ Student: Huai-Ya Chen, implemented the subfunctions inside the script
 Computer Science Department
 California State University, Los Angeles
 
